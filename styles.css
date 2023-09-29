@@ -1,0 +1,85 @@
+img {
+    width: 100%;
+    max-width: 100%; 
+    height: auto; 
+}
+
+.mapa a {
+    position: absolute;
+    text-decoration: none;
+    color: #000;
+}
+.region-andalucia {
+    top: 310px; 
+    left: 120px; 
+}
+
+.region-cataluna {
+    top: 170px; 
+    left: 270px; 
+}
+
+.region-aragon {
+    top: 190px; 
+    left: 220px; 
+}
+
+.region-valencia {
+    top: 250px; 
+    left: 220px; 
+}
+
+.region-madrid {
+    top: 220px; 
+    left: 145px; 
+}
+
+.region-galicia {
+    top: 145px; 
+    left: 40px; 
+}
+
+.region-murcia {
+    top: 300px; 
+    left: 200px; 
+}
+
+.region-castilla-la-mancha {
+    top: 250px; 
+    left: 105px;
+}
+
+.region-castilla-y-leon {
+    top: 130px; 
+    left: 140px; 
+}
+
+.region-extremadura {
+    top: 280px; 
+    left: 75px; 
+}
+
+.region-pais-vasco {
+    top: 80px; 
+    left: 250px; 
+}
+
+.region-navarra {
+    top: 140px; 
+    left: 240px; 
+}
+
+.region-cantabria {
+    top: 90px; 
+    left: 200px;
+}
+
+.region-la-rioja {
+    top: 170px; 
+    left: 180px; 
+}
+
+.region-ceuta-melilla {
+    top: 380px; 
+    left: 120px; 
+}
